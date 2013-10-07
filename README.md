@@ -1,3 +1,5 @@
+Modern PHP rewrite, for fun.
+
 Dropplets
 =========
 
